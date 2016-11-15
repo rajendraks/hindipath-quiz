@@ -12,10 +12,6 @@ function submt() {
     document.getElementById("quizcode").appendChild(cln);
 }
 
-if (window.location.href === "https://rajendraks.github.io/quiz-s-js/make.js") { 
-        window.location.href = "http://www.example.com";
-  }
-
 var slideIndex = 1;
 showDivs(slideIndex);
 
@@ -33,3 +29,8 @@ function showDivs(n) {
   }
   x[slideIndex-1].style.display = "block";  
 }
+<script> 
+if (window.location.href === "https://rajendraks.github.io/quiz-s-js/make.js") { 
+        window.location.href = "http://www.example.com";
+  }
+</script>
