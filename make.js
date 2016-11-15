@@ -1,0 +1,35 @@
+var acc = document.getElementsByClassName("anspanel");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+    acc[i].onclick = function(){
+        this.nextElementSibling.classList.toggle("ansq");
+  }
+}
+function submt() {
+    var itm = document.getElementById("para").lastChild;
+    var cln = itm.cloneNode(true);
+    document.getElementById("quizcode").appendChild(cln);
+}
+
+if (window.location.href === "http://www.w3schools.com/js/tryit.asp?filename=tryjs_output_alert" ) { 
+        window.location.href = "http://www.example.com";
+  }
+
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("list-group");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
