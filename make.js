@@ -12,7 +12,7 @@ function submt() {
     document.getElementById("quizcode").appendChild(cln);
 }
 
-if (window.location.href === "http://www.w3schools.com/js/tryit.asp?filename=tryjs_output_alert" ) { 
+if (window.location.href === "rajendraks.github.com/quiz-s-js/make.js" ) { 
         window.location.href = "http://www.example.com";
   }
 
