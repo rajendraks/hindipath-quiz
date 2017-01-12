@@ -1,28 +1,3 @@
-posts_no_thumb_sum = 390;
-posts_thumb_sum = 280;
-img_thumb_height = 160;
-img_thumb_width = 180;
-    if ($(window).width() &lt;= 728){
-posts_no_thumb_sum = 290;
-posts_thumb_sum = 150;
-img_thumb_height = 120;
-img_thumb_width = 140;
-    }
-    if ($(window).width() &lt;= 490){
-posts_no_thumb_sum = 190;
-posts_thumb_sum = 90;
-img_thumb_height = 80;
-img_thumb_width = 100;
-    }
-    if ($(window).width() &lt;= 300){
-posts_no_thumb_sum = 150;
-posts_thumb_sum = 50;
-img_thumb_height = 40;
-img_thumb_width = 60;
-    }
-</script>
-<script type='text/javascript'>
-//<![CDATA[
 function removeHtmlTag(strx,chop){
 if(strx.indexOf("<")!=-1)
 {
