@@ -26,7 +26,7 @@ mark{padding:.2em;background:#90e;color:#fff}
 .q-panel p:hover:not(.qsn){background:#ffd;}
 .q-panel{display:none;width:80%;float:left;}
 .q-plate{width:20%;float:right;text-align:right}
-.q-nm{background:#ccc;border:none;color:#fff;font-size:18px;width:30px;height:30px;display: inline-block; margin:4px}
+.q-nm{background:#ccc;border:none;color:#fff;font-size:16px;width:30px;height:30px;display: inline-block; margin:4px}
 .report-card {display:none;border-collapse: collapse;width: 100%;margin-bottom:20px}
 .report-card th, .report-card td {text-align: left;padding: 8px;cursor:default}
 .report-card tr:nth-child(even){background-color: #f2f2f2}
