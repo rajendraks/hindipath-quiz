@@ -61,5 +61,6 @@ mark{padding:.2em;background:#90e;color:#fff}
 #countdowntimer{padding:0px 10px;font-size: 24px;text-align:center;color:#ddd;float:right}
 @media screen and (max-width: 480px) {
 .q-panel{display:none;width:90%;float:left;}
+  .tthd{padding:0px 10px;font-size:18px;text-align:center;color:#ddd;}
 .q-plate{width:10%;float:right;text-align:right;height:300px;overflow:auto}
     }
