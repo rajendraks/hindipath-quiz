@@ -19,7 +19,7 @@ mark{padding:.2em;background:#90e;color:#fff}
   100% { transform: rotate(360deg); }
 }
 #rk-online-test{display:none}
-.que-panel{height:275px;overflow:auto;}
+.que-panel{height:375px;overflow:auto;}
 .q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
@@ -63,5 +63,5 @@ mark{padding:.2em;background:#90e;color:#fff}
 .q-panel{display:none;width:90%;float:left;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
   #countdowntimer{padding:0px 6px;font-size: 18px;text-align:center;color:#ddd;float:right}
-.q-plate{width:10%;float:right;text-align:right;height:300px;overflow:auto}
+.q-plate{width:10%;float:right;text-align:right;overflow:auto}
     }
