@@ -23,7 +23,7 @@ mark{padding:.2em;background:#90e;color:#fff}
 .q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
-.q-panel{display:none;width:80%;float:left;border-right:1px solid #ddd}
+.q-panel{display:none;width:80%;float:left;}
 .q-plate{width:20%;float:right;text-align:right}
 .q-nm{background:#ccc;border:none;color:#fff;font-size:20px;width:35px;height:30px;display: inline-block; margin:1px}
 .report-card {display:none;border-collapse: collapse;width: 100%;margin-bottom:20px}
@@ -35,7 +35,7 @@ mark{padding:.2em;background:#90e;color:#fff}
 .q-panel label r-rt {border-radius:50%;background-color:#5cb85c;color: #fff;padding:2px 5px;}
 .q-panel label r-bl{border-radius:50%;background:#ddd;color: #ddd;padding:2px 5px;}
 .an-pl{background:#f88}
-.cur-pl{background:lightblue}
+.cur-pl{background:#6699ff}
 .sttshd{padding:5px;color:#fff;background:#10a3d4;border-top-right-radius:30px;border-bottom-right-radius:30px;font-weight:bold}
 .sl-btn{margin-top:10px;border:1px solid #ddd;padding:1px;}
 .sl-btn .rk-btn{padding:8px 15px;background:#fff;border:1px solid #66f;color:#66f}
