@@ -23,8 +23,7 @@ mark{padding:.2em;background:#90e;color:#fff}
 .q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
-.q-panel p:hover:not(.qsn){background:#ffd;}
-.q-panel{display:none;width:80%;float:left;}
+.q-panel{display:none;width:80%;float:left;border-right:1px solid #ddd}
 .q-plate{width:20%;float:right;text-align:right}
 .q-nm{background:#ccc;border:none;color:#fff;font-size:20px;width:35px;height:30px;display: inline-block; margin:1px}
 .report-card {display:none;border-collapse: collapse;width: 100%;margin-bottom:20px}
@@ -57,11 +56,12 @@ mark{padding:.2em;background:#90e;color:#fff}
 #quizpane button:hover{background:#ccc;}
 #quizpane li{padding:10px 0px; }
 .tmrhd{padding:10px 0px; background:#f88;border-radius:1px;margin-bottom:10px;}
-.tthd{padding:0px 10px;font-size: 24px;text-align:center;color:#ddd;}
+.tthd{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;}
 #countdowntimer{padding:0px 10px;font-size: 24px;text-align:center;color:#ddd;float:right}
 @media screen and (max-width: 480px) {
 .q-panel{display:none;width:90%;float:left;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
   #countdowntimer{padding:0px 6px;font-size: 18px;text-align:center;color:#ddd;float:right}
 .q-plate{width:10%;float:right;text-align:right;overflow:auto}
+  .q-nm{background:#ccc;border:none;color:#fff;font-size:17px;width:32px;height:30px;display: inline-block; margin:1px}
     }
