@@ -18,7 +18,7 @@ mark{padding:.2em;background:#90e;color:#fff}
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-#rk-online-test{display:none}
+#rk-online-test{display:none;box-shadow:0px 2px 0px 0px #ccc;}
 .que-panel{height:375px;overflow:auto;}
 .q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
@@ -57,7 +57,7 @@ mark{padding:.2em;background:#90e;color:#fff}
 #quizpane li{padding:10px 0px; }
 .tmrhd{padding:10px 0px; background:#f88;border-radius:1px;margin-bottom:10px;}
 .tthd{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;}
-#countdowntimer{padding:0px 10px;font-size: 24px;text-align:center;color:#ddd;float:right}
+#countdowntimer{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;float:right}
 @media screen and (max-width: 480px) {
 .q-panel{display:none;width:90%;float:left;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
