@@ -18,7 +18,8 @@ mark{padding:.2em;background:#90e;color:#fff}
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-form{border:2px solid #31c}
+form{outline: 1px solid #FF6B7F;}
+.rk-test-panel{outline: 1px solid #FF6B7F;}
 #rk-online-test{display:none;}
 .que-panel{height:375px;overflow:auto;}
 .q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
