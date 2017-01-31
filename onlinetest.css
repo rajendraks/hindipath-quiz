@@ -57,7 +57,7 @@ form{outline: 1px solid #ff8888;}
 #quizpane button{width:100%;background:#dcc;outline: none;border:none;border-radius: 15px;box-shadow: 0 7px #a88;padding:10px 0px;font-size: 24px;text-align:center;color:#a44}
 #quizpane button:hover{background:#ccc;}
 #quizpane li{padding:10px 0px; }
-.tmrhd{padding:10px 0px; background:#f88;border-radius:1px;margin-bottom:10px;}
+.tmrhd{padding:10px 0px; background:#f88;border-top-left-radius:6px;border-top-right-radius:6px;margin-bottom:10px;}
 .tthd{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;}
 #countdowntimer{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;float:right}
 @media screen and (max-width: 480px) {
@@ -65,5 +65,6 @@ form{outline: 1px solid #ff8888;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
   #countdowntimer{padding:0px 6px;font-size: 18px;text-align:center;color:#ddd;float:right}
 .q-plate{width:13%;float:right;text-align:right;overflow:auto;z-index:1000;}
+ .rk-test-panel{outline: none;}
   .q-nm{background:#ccc;border:none;color:#fff;font-size:17px;width:32px;height:30px;display: inline-block; margin:1px}
     }
