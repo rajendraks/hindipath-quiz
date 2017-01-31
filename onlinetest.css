@@ -61,7 +61,7 @@ form{outline: 1px solid #ff8888;}
 .tthd{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;}
 #countdowntimer{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;float:right}
 @media screen and (max-width: 480px) {
-.q-panel{display:none;width:90%;float:left;}
+.q-panel{display:none;width:87%;float:left;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
   #countdowntimer{padding:0px 6px;font-size: 18px;text-align:center;color:#ddd;float:right}
 .q-plate{width:13%;float:right;text-align:right;overflow:auto}
