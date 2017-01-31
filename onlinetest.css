@@ -19,10 +19,10 @@ mark{padding:.2em;background:#90e;color:#fff}
   100% { transform: rotate(360deg); }
 }
 form{outline: 1px solid #ff8888;}
-.rk-test-panel{outline: 1px solid #ff8888;border-top-left-radius:6px;border-top-right-radius:6px;}
+.rk-test-panel{outline: 1px solid #ff8888;}
 #rk-online-test{display:none;}
 .que-panel{height:375px;overflow:auto;}
-.q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
+.q-panel-st{border-bottom:1px solid #ccc;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
 .q-panel{display:none;width:80%;float:left;}
@@ -57,7 +57,7 @@ form{outline: 1px solid #ff8888;}
 #quizpane button{width:100%;background:#dcc;outline: none;border:none;border-radius: 15px;box-shadow: 0 7px #a88;padding:10px 0px;font-size: 24px;text-align:center;color:#a44}
 #quizpane button:hover{background:#ccc;}
 #quizpane li{padding:10px 0px; }
-.tmrhd{padding:10px 0px; background:#f88;border-top-left-radius:6px;border-top-right-radius:6px;}
+.tmrhd{padding:10px 0px; background:#f88;}
 .tthd{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;}
 #countdowntimer{padding:0px 10px;font-size: 24px;font-weight:bold;text-align:center;color:#ffffdd;float:right}
 @media screen and (max-width: 480px) {
