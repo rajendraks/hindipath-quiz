@@ -22,7 +22,7 @@ form{outline: 1px solid #ff8888;}
 .rk-test-panel{outline: 1px solid #ff8888;}
 #rk-online-test{display:none;}
 .que-panel{height:375px;overflow:auto;}
-.q-panel-st{border-bottom:1px solid #ccc;}
+.q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
 .q-panel{display:none;width:80%;float:left;}
