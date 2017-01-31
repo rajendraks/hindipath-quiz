@@ -64,6 +64,6 @@ form{outline: 1px solid #ff8888;}
 .q-panel{display:none;width:87%;float:left;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
   #countdowntimer{padding:0px 6px;font-size: 18px;text-align:center;color:#ddd;float:right}
-.q-plate{width:13%;float:right;text-align:right;overflow:auto}
+.q-plate{width:13%;float:right;text-align:right;overflow:auto;z-index:1000;}
   .q-nm{background:#ccc;border:none;color:#fff;font-size:17px;width:32px;height:30px;display: inline-block; margin:1px}
     }
