@@ -26,7 +26,7 @@ form{outline: 1px solid #ff8888;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
 .q-panel{display:none;width:80%;float:left;}
-.q-plate{width:20%;float:right;text-align:right;}
+.q-plate{width:20%;float:right;text-align:right;z-index:1000;}
 .q-nm{background:#ccc;border:none;color:#fff;font-size:20px;width:35px;height:30px;display: inline-block; margin:1px}
 .report-card {display:none;border-collapse: collapse;width: 100%;margin-bottom:20px;outline: 1px solid #FF6B7F;}
 .report-card th, .report-card td {text-align: left;padding: 8px;cursor:default}
@@ -64,6 +64,6 @@ form{outline: 1px solid #ff8888;}
 .q-panel{display:none;width:90%;float:left;}
   .tthd{padding:0px 6px;font-size:18px;text-align:center;color:#ddd;}
   #countdowntimer{padding:0px 6px;font-size: 18px;text-align:center;color:#ddd;float:right}
-.q-plate{width:10%;float:right;text-align:right;overflow:auto}
+.q-plate{width:13%;float:right;text-align:right;overflow:auto}
   .q-nm{background:#ccc;border:none;color:#fff;font-size:17px;width:32px;height:30px;display: inline-block; margin:1px}
     }
