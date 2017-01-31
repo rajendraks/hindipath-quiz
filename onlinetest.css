@@ -18,15 +18,15 @@ mark{padding:.2em;background:#90e;color:#fff}
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
-form{outline: 1px solid #FF6B7F;}
-.rk-test-panel{outline: 1px solid #FF6B7F;}
+form{outline: 1px solid #ddd;}
+.rk-test-panel{outline: 1px solid #ddd;}
 #rk-online-test{display:none;}
 .que-panel{height:375px;overflow:auto;}
 .q-panel-st{border-bottom:1px solid #ccc;margin-bottom:10px;}
 .stts{display:none;border-left:4px solid #ffcdcd;padding:8px 4px;background:#ffd}
 .q-panel label, .q-panel label[type=radio]{font-weight:normal;cursor:pointer}
 .q-panel{display:none;width:80%;float:left;}
-.q-plate{width:20%;float:right;text-align:right;outline: 1px solid #FF6B7F;}
+.q-plate{width:20%;float:right;text-align:right;outline: 1px solid #ddd;}
 .q-nm{background:#ccc;border:none;color:#fff;font-size:20px;width:35px;height:30px;display: inline-block; margin:1px}
 .report-card {display:none;border-collapse: collapse;width: 100%;margin-bottom:20px;outline: 1px solid #FF6B7F;}
 .report-card th, .report-card td {text-align: left;padding: 8px;cursor:default}
